@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		063A6E3B2270F60900FC3EB8 /* RecipeDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063A6E3A2270F60900FC3EB8 /* RecipeDetailVC.swift */; };
 		069E9FC7226F855500AA9683 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069E9FC6226F855500AA9683 /* AppDelegate.swift */; };
 		069E9FC9226F855500AA9683 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069E9FC8226F855500AA9683 /* ViewController.swift */; };
 		069E9FCC226F855500AA9683 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 069E9FCA226F855500AA9683 /* Main.storyboard */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		063A6E3A2270F60900FC3EB8 /* RecipeDetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeDetailVC.swift; sourceTree = "<group>"; };
 		069E9FC3226F855500AA9683 /* GoodEatins.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GoodEatins.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		069E9FC6226F855500AA9683 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		069E9FC8226F855500AA9683 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 			children = (
 				069EA005226FB21D00AA9683 /* RecipesSelectionVC.swift */,
 				069E9FC8226F855500AA9683 /* ViewController.swift */,
+				063A6E3A2270F60900FC3EB8 /* RecipeDetailVC.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -177,6 +180,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				063A6E3B2270F60900FC3EB8 /* RecipeDetailVC.swift in Sources */,
 				069E9FC9226F855500AA9683 /* ViewController.swift in Sources */,
 				069E9FE0226F86AE00AA9683 /* DataSet.swift in Sources */,
 				069E9FDC226F85E600AA9683 /* FoodCategory.swift in Sources */,
